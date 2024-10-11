@@ -7,7 +7,3 @@
 ### What I want to make
 * Roguelike Game
 * Personal Website
-
-### Links
-* [X(Twitter)](https://x.com/jkum1024)
-* [Naver Blog](https://blog.naver.com/jkum1024)
